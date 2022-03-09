@@ -1,10 +1,15 @@
-# Project-SpaceX
-Predicted if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. 
+<center>
+    <img src="https://fael.edu.br/upload/cursos/interna/data-science-02-12-06-20-031446.png"  />
+</center>
 
-Common problems that needed solving.
-What influences if the rocket will land successfully?
-The effect each relationship with certain rocket variables will impact in
-determining the success rate of a successful landing.
-What conditions does SpaceX have to achieve to get the best results  and ensure the best rocket success landing rate.
+# Machine Learning: SpaceX Falcon 9 first stage Landing Prediction
 
+Anderson Cruz | London-UK | 
+<a href="https://www.linkedin.com/in/anderjcruz/" target="_blank">Linkedin</a> | 
+<a href="https://nowacapital.com" target="_blank">Nowa Capital</a>
 
+### Project: Technology
+
+Predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. In this lab, you will collect and make sure the data is in the correct format from an API. The following is an example of a successful and launch.
+
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/lab_v2/images/landing\_1.gif)
